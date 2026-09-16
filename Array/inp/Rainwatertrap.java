@@ -25,7 +25,6 @@ public class Rainwatertrap {
 
             // trapped water 
             trappedwater += waterlevel-height[i];
-
         }
         return trappedwater; 
     }
@@ -33,5 +32,4 @@ public class Rainwatertrap {
         int height [] = {4, 2, 0, 6, 3, 2, 5};
         System.out.print(trappedWater(height));
     }
-    
 }

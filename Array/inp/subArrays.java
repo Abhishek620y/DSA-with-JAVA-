@@ -81,7 +81,7 @@
 
 // -------------------------------------------------------
 
-// Maximum Aubarray sum (Brute Force approach)
+// Maximum subarray sum (Brute Force approach)
 
 // public class subArrays {
 //     public static void maxSubarraySum(int number []) {
